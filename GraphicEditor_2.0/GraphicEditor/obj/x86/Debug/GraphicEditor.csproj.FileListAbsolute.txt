@@ -1,0 +1,109 @@
+D:\Profiles\06164\Desktop\Lesson 15.01.14\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.exe
+D:\Profiles\06164\Desktop\Lesson 15.01.14\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.pdb
+D:\Profiles\06164\Desktop\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Profiles\06164\Desktop\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.Form1.resources
+D:\Profiles\06164\Desktop\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.Properties.Resources.resources
+D:\Profiles\06164\Desktop\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Profiles\06164\Desktop\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Profiles\06164\Desktop\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.exe
+D:\Profiles\06164\Desktop\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.pdb
+D:\Profiles\06164\Desktop\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.NewPen.resources
+D:\GILL\_____ST\GDI+\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.exe
+D:\GILL\_____ST\GDI+\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.pdb
+D:\GILL\_____ST\GDI+\Lesson 15.01.14\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.exe
+D:\GILL\_____ST\GDI+\Lesson 15.01.14\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.pdb
+D:\GILL\_____ST\GDI+\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.Form1.resources
+D:\GILL\_____ST\GDI+\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.NewPen.resources
+D:\GILL\_____ST\GDI+\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.Properties.Resources.resources
+D:\GILL\_____ST\GDI+\Lesson 15.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.csproj.GenerateResource.Cache
+D:\Profiles\06164\Desktop\Lesson 16.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.exe
+D:\Profiles\06164\Desktop\Lesson 16.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.pdb
+D:\Profiles\06164\Desktop\Lesson 16.01.14\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.exe
+D:\Profiles\06164\Desktop\Lesson 16.01.14\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.pdb
+D:\Profiles\06164\Desktop\Lesson 16.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Profiles\06164\Desktop\Lesson 16.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.Form1.resources
+D:\Profiles\06164\Desktop\Lesson 16.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.NewPen.resources
+D:\Profiles\06164\Desktop\Lesson 16.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.Properties.Resources.resources
+D:\Profiles\06164\Desktop\Lesson 16.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Profiles\06164\Desktop\Lesson 16.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Profiles\06164\Desktop\Lesson 16.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.NewBrush.resources
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.exe
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.pdb
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.exe
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.pdb
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.Form1.resources
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.NewBrush.resources
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.NewPen.resources
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.Properties.Resources.resources
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.csproj.GenerateResource.Cache
+D:\Profiles\06164\Desktop\Lesson 17.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.exe
+D:\Profiles\06164\Desktop\Lesson 17.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.pdb
+D:\Profiles\06164\Desktop\Lesson 17.01.14\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.exe
+D:\Profiles\06164\Desktop\Lesson 17.01.14\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.pdb
+D:\Profiles\06164\Desktop\Lesson 17.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Profiles\06164\Desktop\Lesson 17.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.Form1.resources
+D:\Profiles\06164\Desktop\Lesson 17.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.NewBrush.resources
+D:\Profiles\06164\Desktop\Lesson 17.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.NewPen.resources
+D:\Profiles\06164\Desktop\Lesson 17.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.Properties.Resources.resources
+D:\Profiles\06164\Desktop\Lesson 17.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Profiles\06164\Desktop\Lesson 17.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\GDI+\Lesson 17.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.exe
+H:\GDI+\Lesson 17.01.14\GraphicEditor\GraphicEditor\obj\x86\Debug\GraphicEditor.pdb
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor_\GraphicEditor\obj\x86\Debug\GraphicEditor.exe
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor_\GraphicEditor\obj\x86\Debug\GraphicEditor.pdb
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor_\GraphicEditor\bin\Debug\GraphicEditor.exe
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor_\GraphicEditor\bin\Debug\GraphicEditor.pdb
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor_\GraphicEditor\obj\x86\Debug\GraphicEditor.Form1.resources
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor_\GraphicEditor\obj\x86\Debug\GraphicEditor.NewBrush.resources
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor_\GraphicEditor\obj\x86\Debug\GraphicEditor.NewPen.resources
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor_\GraphicEditor\obj\x86\Debug\GraphicEditor.Properties.Resources.resources
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor_\GraphicEditor\obj\x86\Debug\GraphicEditor.csproj.GenerateResource.Cache
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor_\GraphicEditor\obj\x86\Debug\GraphicEditor.csprojResolveAssemblyReference.cache
+D:\GILL\_____ST\GDI+\Лабораторная работа 1\GraphicEditor_\GraphicEditor\obj\x86\Debug\GraphicEditor.Version.resources
+D:\Profiles\06164\Desktop\Lesson 23.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.exe
+D:\Profiles\06164\Desktop\Lesson 23.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.pdb
+D:\Profiles\06164\Desktop\Lesson 23.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Profiles\06164\Desktop\Lesson 23.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.Form1.resources
+D:\Profiles\06164\Desktop\Lesson 23.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.NewBrush.resources
+D:\Profiles\06164\Desktop\Lesson 23.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.NewPen.resources
+D:\Profiles\06164\Desktop\Lesson 23.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.Properties.Resources.resources
+D:\Profiles\06164\Desktop\Lesson 23.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.Version.resources
+D:\Profiles\06164\Desktop\Lesson 23.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Profiles\06164\Desktop\Lesson 23.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Profiles\06164\Desktop\Lesson 23.01.14\GraphicEditor_2.0\GraphicEditor\bin\Debug\GraphicEditor.exe
+D:\Profiles\06164\Desktop\Lesson 23.01.14\GraphicEditor_2.0\GraphicEditor\bin\Debug\GraphicEditor.pdb
+D:\Profiles\06164\Desktop\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.exe
+D:\Profiles\06164\Desktop\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.pdb
+D:\Profiles\06164\Desktop\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\bin\Debug\GraphicEditor.exe
+D:\Profiles\06164\Desktop\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\bin\Debug\GraphicEditor.pdb
+D:\Profiles\06164\Desktop\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Profiles\06164\Desktop\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.Form1.resources
+D:\Profiles\06164\Desktop\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.NewBrush.resources
+D:\Profiles\06164\Desktop\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.NewPen.resources
+D:\Profiles\06164\Desktop\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.Properties.Resources.resources
+D:\Profiles\06164\Desktop\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.Version.resources
+D:\Profiles\06164\Desktop\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Profiles\06164\Desktop\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\alena\Desktop\GDI+\3 Week\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.exe
+C:\Users\alena\Desktop\GDI+\3 Week\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.pdb
+C:\Users\alena\Desktop\GDI+\3 Week\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\bin\Debug\GraphicEditor.exe
+C:\Users\alena\Desktop\GDI+\3 Week\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\bin\Debug\GraphicEditor.pdb
+C:\Users\alena\Desktop\GDI+\3 Week\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\GDI+\3 Week\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.Form1.resources
+C:\Users\alena\Desktop\GDI+\3 Week\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.NewBrush.resources
+C:\Users\alena\Desktop\GDI+\3 Week\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.NewPen.resources
+C:\Users\alena\Desktop\GDI+\3 Week\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.Properties.Resources.resources
+C:\Users\alena\Desktop\GDI+\3 Week\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.Version.resources
+C:\Users\alena\Desktop\GDI+\3 Week\Lesson 27.01.14\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.csproj.GenerateResource.Cache
+C:\Users\alena\Desktop\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.exe
+C:\Users\alena\Desktop\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.pdb
+C:\Users\alena\Desktop\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.Form1.resources
+C:\Users\alena\Desktop\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.NewBrush.resources
+C:\Users\alena\Desktop\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.NewPen.resources
+C:\Users\alena\Desktop\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.Properties.Resources.resources
+C:\Users\alena\Desktop\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.Version.resources
+C:\Users\alena\Desktop\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.csproj.GenerateResource.Cache
+C:\Users\alena\Desktop\GraphicEditor_2.0\GraphicEditor\bin\Debug\GraphicEditor.exe
+C:\Users\alena\Desktop\GraphicEditor_2.0\GraphicEditor\bin\Debug\GraphicEditor.pdb
+C:\Users\alena\Desktop\GraphicEditor_2.0\GraphicEditor\obj\x86\Debug\GraphicEditor.ImageView.resources
